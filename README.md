@@ -1,6 +1,6 @@
 - Hi, this is @justinchan114.
 - I am a civil engineer and a member of the Institution of Civil Engineers.
-- I have been self-learning data science (mostly on machine learning) with python and GIS with Google Earth Engine.
+- I have been self-learning data science (mostly on machine learning) using python, and GIS with Google Earth Engine.
 
 
 <!---
