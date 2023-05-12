@@ -1,5 +1,5 @@
-Hi, this is @justinchan114.
-I am a civil engineer and a member of the Institution of Civil Engineers(MICE, CEng).
+Hi, this is Justin Chan.</br>
+I am a civil engineer and a member of the Institution of Civil Engineers(MICE, CEng).</br>
 I have been self-learning data science (mostly on machine learning) using python, focusing on computer vision (TensorFlow), remote sensing data and Google Earth Engine.
 
 <!---
