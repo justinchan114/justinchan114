@@ -20,7 +20,7 @@ Here are what I code with:</br>
 | :earth_asia:**Geospatial Processing**           |                                          |
 | [Land use clustering with Landsat](https://github.com/justinchan114/landuse_clustering) | Python (Google Colab), Google Earth Engine|
 | [Wildfire Analysis with NBR](https://github.com/justinchan114/wildfire_analysis_with_NBR) | Python (Jupyter), ArcGIS API, GDAL        |
-| [Flood Mapping with Sentinel](https://github.com/justinchan114/GEE_floodmap/blob/main/README_and_GEE_link.md) | Google Earth Engine |
+| [Flood Mapping with Sentinel](https://github.com/justinchan114/GEE_floodmap) | Google Earth Engine |
 |                                                          |                                          |
 | :camera: **Image Processing**                   |                                          |
 | [Mahjong Tile Classifier](https://github.com/justinchan114/Mahjong_Tile_Classifier) | Python (Jupyter), OpenCV, TensorFlow, Pandas, Numpy, Scikit-Learn, Matplotlib |
