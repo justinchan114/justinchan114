@@ -1,6 +1,6 @@
 ## :grin: Hi there! This is Justin.
 **I am a Civil Engineer (MICE, CEng) with data science background.** </br>
-I will also be doing the Online MSc in Computer Science (OMSCS) in Georgia Tech in August 2023.
+I am currently doing the Online MSc in Computer Science (OMSCS) in Georgia Tech.
 
 Here are what I code with:</br>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -26,9 +26,9 @@ Here are what I code with:</br>
 | [Mahjong Tile Classifier](https://github.com/justinchan114/Mahjong_Tile_Classifier) | Python (Jupyter), OpenCV, TensorFlow, Pandas, Numpy, Scikit-Learn, Matplotlib |
 | [Satellite Image Classification](https://github.com/justinchan114/satellite_image_classification) | Python (Google Colab), TensorFlow, Pandas |
 |                                                          |                                          |
-| :chart_with_upwards_trend:**Financial Analysis**|                                          |
-| [Commodity Correlation and Price Prediction](https://github.com/justinchan114/Commodity_Corr_and_Price_Prediction) | Python (Jupyter), Pandas, Keras, Scikit-learn, TensorFlow |
-| [Lumber Price Prediction with LSTM](https://github.com/justinchan114/Lumber_Price_Prediction_LSTM) | Python (Jupyter), Pandas, Keras, Scikit-learn, TensorFlow |
+| :droplet:**Hydrologic Forecast**|                                          |
+| [Rainfall-runoff Forecast with LSTM](https://github.com/justinchan114/LSTM_Hydrologic_Model) | Python (Jupyter), Pandas, PyTorch, Matplotlib |
+
 
 Connect with me on [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wljustinchan/)
 
