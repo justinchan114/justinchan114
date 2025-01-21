@@ -1,5 +1,5 @@
 ## :grin: Hi there! This is Justin.
-**I am a Civil Engineer (MICE, CEng) with data science background.** </br>
+**I am a Water Engineer (P.Eng/ MICE, CEng) with data science background.** </br>
 I am currently doing the Online MSc in Computer Science (OMSCS) in Georgia Tech.
 
 Here are what I code with:</br>
